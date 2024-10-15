@@ -17,6 +17,8 @@
 - each player starts with a mine
 - this single mine can't be destroyed
 - mines can be bought with gold
+- gold is used to buy units, food, cures and mines
+- players have to care about their gold production, as it is automatically used to feed the units
 
 ### dormitories
 - a unit that has been used in a battle looses a percentage of its energy then goes back to the dormitory
@@ -24,6 +26,21 @@
 - no unit can be used in a battle if it hasn't retrieve all its energy
 - every minute, a unit retrieves a percentage of its energy
 - if the units can't have a place in the dormitory between two days, they suffer an illness and must be cured before being used again
+
+### illness
+- by event or by dormitory overflow, units can get ill
+- ill units can't be used in a battle
+- you have to make place in the dormitory or pay a cure to heal them
+
+### injuries
+- during a battle, units can get injured
+- injured units can't be used in a battle
+- you have to pay a cure to heal them
+
+### hunger
+- if you don't have enough gold to feed your units, they will get hungry
+- hungry units can't be used in a battle
+- you have to pay for food to feed them
 
 ### battles
 - to be able to join a battle, a player must have at least 20 units out of the dormitory
