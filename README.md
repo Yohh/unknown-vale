@@ -33,4 +33,4 @@ Unkown vale gives players the opportunity to play a card game without spending m
 At last, only strategy and management will make the difference between players, it should improve competitive spirit and give a fair chance to everyone.<br>
 
 ## docs
-- (basic rules)[docs/basic_rules.md]
+- [basic rules](docs/basic_rules.md)
