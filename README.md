@@ -31,3 +31,6 @@ A solution is to avoid the money part, then add a fair amount of time to train a
 Unkown vale gives players the opportunity to play a card game without spending money, with a global pool of cards and the same amount of time to train and play for everyone.<br>
 
 At last, only strategy and management will make the difference between players, it should improve competitive spirit and give a fair chance to everyone.<br>
+
+## docs
+- (basic rules)[docs/basic_rules.md]
