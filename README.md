@@ -1,4 +1,4 @@
-# unknown-vale
+# Unknown vale
 
 Unknown vale is a card game that gives you the opportunity to manage a small base in a hidden and feerical vale.<br>
 You will be able to use units nests to recruit units and fight against other players to impose your domination.<br>
@@ -32,5 +32,15 @@ Unkown vale gives players the opportunity to play a card game without spending m
 
 At last, only strategy and management will make the difference between players, it should improve competitive spirit and give a fair chance to everyone.<br>
 
-## docs
-- [basic rules](docs/basic_rules.md)
+## Docs
+
+- game design
+  - [basic rules](docs/game_design/basic_rules.md)
+- technical
+  - [database](docs/tech/database.md)
+  - [client](docs/tech/client.md)
+  - [server](docs/tech/server.md)
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
