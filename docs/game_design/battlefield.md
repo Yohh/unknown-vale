@@ -27,3 +27,11 @@ The player can't see the opponent's camp.
 The battle is a turn-based fight between the player and the opponent. Each turn, the player can play a card from his camp, the card can be a unit or a spell, then he can use his deployed units to attack the opponent's units, mine or camp.
 
 The player wins the battle if he destroys the opponent's mine or camp, the opponent wins the battle if he destroys the player's mine or camp.
+
+### Victory
+
+The player wins the battle if he destroys the opponent's mine or camp, he gains the opponent's gold accumulated during the battle and an amount of experience based on the opponent's level.
+
+### Defeat
+
+The player loses the battle if the opponent destroys his mine or camp.

@@ -31,3 +31,18 @@ The nest is where the player can manage his cards, it is composed of a pool of c
 - The player can buy new nests with gold if his level is high enough
 - The player can buy new random cards with gold (the price increases with the number of cards bought)
 - The player can't see the opponent's nest(s)
+
+
+### Resources
+
+- **Gold**: The player's gold amount, it is used to buy new mines and new cards. Units in the base cost gold each day, the player can't have a negative gold amount. If the player's gold amount becomes null, units in the base will suffer hunger.
+- **Level**: The player's level, it is used to unlock new nests and new units. The player can't have a negative level amount.
+- **Experience**: The player's experience amount, it is used to level up. The player can't have a negative experience amount.
+
+### Friendship and alliances
+
+The player can send friendship requests to other players, if the request is accepted, the player can see the friend's base and send him messages. The player can also create alliances with other players, if the alliance is accepted, the player can see the ally's base and send him messages. The player can't see the opponent's base unless he is a friend or an ally.
+
+- **Friendship**: Friends can trade cards and gold, they can also send messages to each other. A friend can use his spells to help the other (eg. cure his units) one time per day.
+
+- **Alliance**: Allies can trade cards and gold, they can also send messages to each other. An alliance brings the ability to have a common storage where the players can store a limited amount of cards and gold, they can also use their spells to help each other (eg. cure their units) at any time. The common storage is available every time, even if a player is offline. Every new player in th alliance have instant access to the common storage. This storage can be upgraded with gold.

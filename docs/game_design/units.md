@@ -44,6 +44,10 @@ If a unit can't have a place in the dormitory between two days or is targeted by
 
 If a unit is defeated in battle, it can be injured. Injured units need more time to retrieve their energy, or can be cured to accelerate the process. Injured units can't be used in battle.
 
+### Hunger
+
+If the player's gold amount becomes null, units in the base will suffer hunger. Hungry units need more time to retrieve their energy, or can be cured to accelerate the process. Hungry units can't be used in battle.
+
 ### Cures
 
 The player can cure ill or injured units to accelerate the process of retrieving their energy. The player can't cure the opponent's units.
