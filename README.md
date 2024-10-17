@@ -36,6 +36,7 @@ At last, only strategy and management will make the difference between players, 
 
 - game design
   - [basic rules](docs/game_design/basic_rules.md)
+  - [player base](docs/game_design/player_base.md)
 - technical
   - [database](docs/tech/database.md)
   - [client](docs/tech/client.md)
