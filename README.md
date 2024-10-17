@@ -40,6 +40,7 @@ At last, only strategy and management will make the difference between players, 
   - [database](docs/tech/database.md)
   - [client](docs/tech/client.md)
   - [server](docs/tech/server.md)
+  - [ops](docs/tech/ops.md)
 
 ## License
 
