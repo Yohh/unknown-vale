@@ -3,4 +3,4 @@
 ### Main tech
 
 - mysql
-- redis ?
+- redis
